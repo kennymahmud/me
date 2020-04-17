@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587135955440.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "736948741",
+    "id" : "10490412",
+    "lastKnownWriteTime" : 1587136030,
+    "last_content_update" : 1587136030539,
+    "path" : "~/Git/linking/link_r.R",
+    "project_path" : "link_r.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
